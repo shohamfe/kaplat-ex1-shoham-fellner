@@ -1,1 +1,3 @@
 file a.txt
+new line
+new line 2
